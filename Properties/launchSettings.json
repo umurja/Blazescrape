@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Blazescrape": {
+      "commandName": "Project",
+      "commandLineArgs": "\"https://a.blazemeter.com/app/?public-token=PoWjh6vHhDSvW6fjQRpfIGO05WuZK0ScZJR6pAhAelp3XidtHw#/accounts/702169/workspaces/708642/projects/2126444/masters/70352997/summary\""
+    }
+  }
+}
